@@ -43,7 +43,9 @@ public class TaskSix {
                 break;
             case 12:
                 System.out.println("Декабрь находится в зимнем сезоне.");
-
+                break;
+            default:
+                System.out.println("Неверно выбран номер месяца.");
 
         }
     }
